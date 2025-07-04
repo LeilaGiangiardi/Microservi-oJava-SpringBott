@@ -1,0 +1,41 @@
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDEs / Editores
+.idea/
+*.iml
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Arquivos de build para Java / Spring Boot
+/target/
+/build/
+*.jar
+*.war
+*.ear
+
+# Arquivos compilados
+*.class
+
+# Logs e arquivos temporários
+*.log
+tmp/
+temp/
+
+# Maven Wrapper (caso não queira versionar o jar)
+!.mvn/wrapper/maven-wrapper.jar
+
+# Diretórios do Gradle
+.gradle/
+build/
+
+# Dependências de Node.js, se houver algum serviço que use Node
+node_modules/
+
+# Outros arquivos temporários
+*.tmp
+*.swp
